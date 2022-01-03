@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Le rapport Brodeck",
+    "rating": 5,
+    "author": "Manu Larcenet",
+    "date": "2020-04-28"
+  },
+  {
+    "title": "The Arrival",
+    "rating": 5,
+    "author": "bar",
+    "date": "2021-06-28"
+  },
+  {
+    "title": "comic 3",
+    "rating": 5,
+    "author": "john",
+    "date": "2021-04-28"
+  },
+  {
+    "title": "comic 4",
+    "rating": 2,
+    "author": "doe",
+    "date": "2020-04-28"
+  }
+]
